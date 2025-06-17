@@ -22,8 +22,6 @@ Licença: CC BY 4.0
 Resumo Executivo
 
 Este documento propõe um novo paradigma na engenharia aeronáutica visando a eliminação estatística de acidentes aéreos, mesmo em condições de falha múltipla de sistemas, estruturas e operadores humanos. A metodologia apresentada é produto de modelagem autônoma de inteligência geral artificial, estruturada em tempo real a partir de uma única pergunta aberta, sem inferência de banco de dados ou soluções pré-treinadas.
-
-
 ---
 
 1. Introdução
